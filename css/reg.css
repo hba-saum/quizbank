@@ -1,0 +1,66 @@
+.regBody{
+	background: #fff;
+	max-width: 600px;
+	margin: 20px auto;
+	padding: 20px;
+}
+.regBody h2{
+	color: #0E1826;
+	
+}
+.formItem input{
+	font-size: 17px;
+	padding: 10px;
+	height: 30px;
+	width: 80%;
+	max-width: 400px;
+	
+}
+
+.regForm{
+	
+}
+.regForm p{
+	color: #283D59;
+
+}
+
+
+
+.formItem{
+	margin: 10px;
+}
+
+.formItem input[name="firstName"], input[name="lastName"]{
+	width: 185px;
+}
+
+.formItem input[type="submit"]{
+	background: #0E1826;
+	height: 40px;
+	max-width: 423px;
+	color: #E9F1F2;
+	padding: 10px;
+  	font-size: 17px;
+	cursor: pointer;
+	border: 0px;
+}
+
+.formItem input[type="submit"]:active{
+	background: #E9F1F2;
+	color: #0E1826;
+}
+.radio-group{
+	
+	
+}
+.radio-group input[type="radio"]{
+	width: 30px;
+	height: 17px;
+	padding: 2px;
+	margin: 2px;
+}
+label{
+	color: #283D59;
+	font-size: 17px;
+}

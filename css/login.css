@@ -1,0 +1,33 @@
+body{
+	background: #E9F1F2;
+	color: #FFF;
+	font-family: Verdana,sans-serif;
+}
+.body{
+	
+}
+.formHeader{
+	background: #0E1826;
+	padding: 20px;
+}
+.formHeader img{
+	width: 40%;
+	height: auto;
+}
+.formHeader h3{
+	float: right;
+}
+
+.loginForm{
+	max-width: 400px;
+	text-align: center;
+	margin: 15% auto;
+	background: #78ABBF;
+	
+}
+
+.loginForm input{
+	width: 80%;
+	height: 35px;
+	padding: 5px;
+}
